@@ -3,4 +3,8 @@ numpy
 matplotlib
 seaborn
 scikit-learn
-scipy
+openpyxl
+requests
+streamlit
+plotly
+joblib
