@@ -1,14 +1,15 @@
-# GridSense: Smart Grid Load Forecasting & Fault-Risk Audit
+# Short-Term Electricity Demand Forecasting for the Indian Power Grid Using ML and Weather Features
+CSE570 – Machine Learning with Python (Skill Based Assignment)
 
-## Problem statement
-Using 50,000 smart-grid readings (15-min intervals), we (A) forecast power consumption,
-(B) predict when the grid must supply backup power, (C) test whether overload/transformer-fault
-labels are predictable at all, (D) benchmark against the dataset's predicted load,
-(E) detect voltage anomalies.
+## Objective
+Forecast hourly electricity demand for India, flag unusually high-demand periods, study the effect
+of weather and historical demand, compare ML models, and present results in a dashboard.
 
-## Dataset
-Source: <PASTE SOURCE / LINK HERE>
-50,000 rows × 16 columns, 2024-01-01 to 2025-06-04. Appears synthetic.
+## Forecast horizons
+1 hour ahead and 24 hours ahead. (15-minute forecasts are not possible: all available data is hourly.)
+
+## Datasets
+See `data/README.md`. Main: India hourly demand (46,728 hours, 2019-2024).
 
 ## Status
-- [x] Section 1: Data audit
+- [x] Day 1: Data audit
