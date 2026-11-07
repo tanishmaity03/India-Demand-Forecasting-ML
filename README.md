@@ -13,3 +13,4 @@ See `data/README.md`. Main: India hourly demand (46,728 hours, 2019-2024).
 
 ## Status
 - [x] Day 1: Data audit
+- [x] Day 2:
