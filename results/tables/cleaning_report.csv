@@ -1,0 +1,8 @@
+dataset,issue,count,action
+India demand,Missing / duplicate timestamps,0,None needed
+India demand,Hours flagged as anomalous (>15% from same-hour neighbours),20,"Flagged, kept (holidays, curfews and events are real demand)"
+India weather,Missing values,0,Interpolated up to 3 h
+India + weather,Rows lacking weather after merge,0,None needed
+load_dataset,Irradiance sentinel values (-999),24,"Set to NaN, filled with mean of same hour +-24 h"
+load_dataset,Non-positive load readings,79,Treated as meter drop-outs; time-interpolated (runs <= 8 h)
+load_dataset,Hours flagged as load spikes (>50% from neighbours),72,"Flagged, kept"
