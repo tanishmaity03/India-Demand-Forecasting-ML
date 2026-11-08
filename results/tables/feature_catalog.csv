@@ -1,0 +1,34 @@
+feature,group
+lag_0,Demand lag
+lag_1,Demand lag
+lag_2,Demand lag
+lag_3,Demand lag
+lag_6,Demand lag
+lag_12,Demand lag
+lag_24,Demand lag
+lag_48,Demand lag
+lag_168,Demand lag
+same_hour_last_week,Demand lag
+roll_mean_24,Rolling demand
+roll_std_24,Rolling demand
+roll_max_24,Rolling demand
+roll_min_24,Rolling demand
+weekly_growth,Rolling demand
+hour_sin,Calendar
+hour_cos,Calendar
+dow_sin,Calendar
+dow_cos,Calendar
+doy_sin,Calendar
+doy_cos,Calendar
+is_weekend,Calendar
+is_holiday,Event
+covid_lockdown,Event
+temp_c_target,Weather
+rh_pct_target,Weather
+dewpoint_c_target,Weather
+wind_ms_target,Weather
+solar_wm2_target,Weather
+precip_mm_target,Weather
+cdd_target,Weather
+temp_roll24,Weather
+temp_delta,Weather
