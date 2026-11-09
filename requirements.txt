@@ -7,4 +7,6 @@ openpyxl
 requests
 streamlit
 plotly
-joblibholidays
+joblib
+statsmodels
+holidays
