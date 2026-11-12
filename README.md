@@ -6,7 +6,7 @@ Forecast hourly electricity demand for India, flag unusually high-demand periods
 of weather and historical demand, compare ML models, and present results in a dashboard.
 
 ## Forecast horizons
-1 hour ahead and 24 hours ahead. (15-minute forecasts are not possible: all available data is hourly.)
+1hour ahead and 24 hours ahead. (15-minute forecasts are not possible: all available data is hourly.)
 
 ## Datasets
 See `data/README.md`. Main: India hourly demand (46728 hours, 2019-2024).
