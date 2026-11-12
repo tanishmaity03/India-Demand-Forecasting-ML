@@ -1,0 +1,5 @@
+horizon_h,method,margin,true_high_hours,base_rate_pct,TP,FP,FN,TN,precision,recall,F1,false_alarm_rate,true_episodes,episode_recall,warning_episodes,episode_precision
+1,Gradient Boosting,0.0,1476,12.6543,1356,66,120,10122,0.9536,0.9187,0.9358,0.0065,243,0.9506,244,0.9549
+1,Previous-day baseline,0.0,1476,12.6543,1089,373,387,9815,0.7449,0.7378,0.7413,0.0366,243,0.8066,245,0.8082
+24,Random Forest,0.0,1486,12.7401,1149,225,337,9953,0.8362,0.7732,0.8035,0.0221,243,0.856,245,0.8653
+24,Previous-day baseline,0.0,1486,12.7401,1102,377,384,9801,0.7451,0.7416,0.7433,0.037,243,0.8066,244,0.8074
