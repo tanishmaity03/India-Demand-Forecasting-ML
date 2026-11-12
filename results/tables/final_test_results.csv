@@ -1,0 +1,13 @@
+horizon_h,model,MAE (MW),RMSE (MW),MAPE (%),R2,Skill vs best baseline (%)
+1,Baseline: persistence,4174.026,5320.822,2.337,0.929,0.0
+1,Baseline: previous_day,4766.651,6498.515,2.667,0.894,-14.198
+1,Baseline: previous_week,8260.584,10863.788,4.636,0.704,-97.904
+1,Linear Regression,915.753,1252.377,0.502,0.996,78.061
+1,Random Forest (tuned),1325.96,1810.774,0.731,0.992,68.233
+1,Gradient Boosting (tuned),1088.744,1461.757,0.601,0.995,73.916
+24,Baseline: persistence,4766.651,6498.515,2.667,0.894,0.0
+24,Baseline: previous_day,4766.651,6498.515,2.667,0.894,0.0
+24,Baseline: previous_week,8260.584,10863.788,4.636,0.704,-73.3
+24,Linear Regression,3845.27,5242.692,2.159,0.931,19.33
+24,Random Forest (tuned),3480.568,4880.997,1.955,0.94,26.981
+24,Gradient Boosting (tuned),3479.034,4877.18,1.948,0.94,27.013

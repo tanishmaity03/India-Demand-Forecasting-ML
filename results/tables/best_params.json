@@ -1,0 +1,44 @@
+{
+  "1": {
+    "best_model": "Gradient Boosting",
+    "Gradient Boosting": {
+      "min_samples_leaf": 20,
+      "max_leaf_nodes": 15,
+      "max_iter": 600,
+      "max_depth": 6,
+      "learning_rate": 0.08,
+      "l2_regularization": 1.0
+    },
+    "Random Forest": {
+      "n_estimators": 100,
+      "min_samples_leaf": 5,
+      "max_features": 0.7,
+      "max_depth": null
+    },
+    "cv_mae_pct": {
+      "Gradient Boosting": 0.673662899469714,
+      "Random Forest": 0.8635139039861729
+    }
+  },
+  "24": {
+    "best_model": "Random Forest",
+    "Gradient Boosting": {
+      "min_samples_leaf": 20,
+      "max_leaf_nodes": 31,
+      "max_iter": 400,
+      "max_depth": 10,
+      "learning_rate": 0.03,
+      "l2_regularization": 1.0
+    },
+    "Random Forest": {
+      "n_estimators": 100,
+      "min_samples_leaf": 5,
+      "max_features": 0.7,
+      "max_depth": null
+    },
+    "cv_mae_pct": {
+      "Gradient Boosting": 1.9395219291432564,
+      "Random Forest": 1.8995714488005022
+    }
+  }
+}

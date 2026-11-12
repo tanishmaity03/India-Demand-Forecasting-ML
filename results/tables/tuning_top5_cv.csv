@@ -1,0 +1,19 @@
+params,cv_mae_pct_of_level,cv_std_pct,model,horizon_h
+"{'min_samples_leaf': 20, 'max_leaf_nodes': 15, 'max_iter': 600, 'max_depth': 6, 'learning_rate': 0.08, 'l2_regularization': 1.0}",0.6737,0.0917,Gradient Boosting,1
+"{'min_samples_leaf': 50, 'max_leaf_nodes': 31, 'max_iter': 600, 'max_depth': 6, 'learning_rate': 0.08, 'l2_regularization': 0.1}",0.681,0.1068,Gradient Boosting,1
+"{'min_samples_leaf': 50, 'max_leaf_nodes': 15, 'max_iter': 600, 'max_depth': 10, 'learning_rate': 0.05, 'l2_regularization': 0.1}",0.6811,0.099,Gradient Boosting,1
+"{'min_samples_leaf': 50, 'max_leaf_nodes': 15, 'max_iter': 400, 'max_depth': 6, 'learning_rate': 0.12, 'l2_regularization': 0.0}",0.6843,0.0995,Gradient Boosting,1
+"{'min_samples_leaf': 50, 'max_leaf_nodes': 63, 'max_iter': 600, 'max_depth': 10, 'learning_rate': 0.08, 'l2_regularization': 1.0}",0.6881,0.1167,Gradient Boosting,1
+"{'n_estimators': 100, 'min_samples_leaf': 5, 'max_features': 0.7, 'max_depth': None}",0.8635,0.1754,Random Forest,1
+"{'n_estimators': 100, 'min_samples_leaf': 3, 'max_features': 0.3, 'max_depth': None}",0.9745,0.1963,Random Forest,1
+"{'n_estimators': 100, 'min_samples_leaf': 20, 'max_features': 0.5, 'max_depth': 30}",1.059,0.2435,Random Forest,1
+"{'n_estimators': 100, 'min_samples_leaf': 10, 'max_features': 0.3, 'max_depth': None}",1.0694,0.232,Random Forest,1
+"{'min_samples_leaf': 20, 'max_leaf_nodes': 31, 'max_iter': 400, 'max_depth': 10, 'learning_rate': 0.03, 'l2_regularization': 1.0}",1.9395,0.218,Gradient Boosting,24
+"{'min_samples_leaf': 20, 'max_leaf_nodes': 31, 'max_iter': 200, 'max_depth': 10, 'learning_rate': 0.08, 'l2_regularization': 1.0}",1.9457,0.2253,Gradient Boosting,24
+"{'min_samples_leaf': 50, 'max_leaf_nodes': 63, 'max_iter': 400, 'max_depth': 10, 'learning_rate': 0.03, 'l2_regularization': 0.0}",1.9602,0.2495,Gradient Boosting,24
+"{'min_samples_leaf': 50, 'max_leaf_nodes': 15, 'max_iter': 600, 'max_depth': 10, 'learning_rate': 0.05, 'l2_regularization': 0.1}",1.9714,0.2599,Gradient Boosting,24
+"{'min_samples_leaf': 100, 'max_leaf_nodes': 15, 'max_iter': 400, 'max_depth': 6, 'learning_rate': 0.05, 'l2_regularization': 1.0}",1.979,0.2948,Gradient Boosting,24
+"{'n_estimators': 100, 'min_samples_leaf': 5, 'max_features': 0.7, 'max_depth': None}",1.8996,0.2129,Random Forest,24
+"{'n_estimators': 100, 'min_samples_leaf': 3, 'max_features': 0.3, 'max_depth': None}",1.9668,0.2381,Random Forest,24
+"{'n_estimators': 100, 'min_samples_leaf': 20, 'max_features': 0.5, 'max_depth': 30}",1.9771,0.2316,Random Forest,24
+"{'n_estimators': 100, 'min_samples_leaf': 10, 'max_features': 0.3, 'max_depth': None}",2.0088,0.2499,Random Forest,24
