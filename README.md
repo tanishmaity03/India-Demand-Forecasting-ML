@@ -9,7 +9,7 @@ of weather and historical demand, compare ML models, and present results in a da
 1 hour ahead and 24 hours ahead. (15-minute forecasts are not possible: all available data is hourly.)
 
 ## Datasets
-See `data/README.md`. Main: India hourly demand (46728 hours, 2019-2024).
+See `data/README.md`. Main: India hourly demand (46,728 hours, 2019-2024).
 
 ## Status
 - [x] Day 1: Data audit
