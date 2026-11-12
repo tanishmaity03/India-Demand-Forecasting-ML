@@ -1,4 +1,3 @@
-"""Tests for src/peaks.py (run: python -m unittest discover -s tests -t .)."""
 import unittest
 
 import numpy as np
