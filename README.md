@@ -2,7 +2,7 @@
 
 Forecasting India's hourly national electricity demand **1 hour and 24 hours ahead** using demand history, calendar effects and weather, with an early-warning system for high-demand hours.
 
-CSE570: Machine Learning with Python (skill-based assignment).
+CSE570: Machine Learning with Python.
 
 | | 
 |---|---|
