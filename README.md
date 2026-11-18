@@ -4,7 +4,7 @@ Forecasting India's hourly national electricity demand **1 hour and 24 hours ahe
 
 CSE570: Machine Learning with Python (skill-based assignment).
 
-| | |
+| | 
 |---|---|
 | **Task** | Supervised time-series regression on hourly national demand (MW) |
 | **Horizons** | 1 hour ahead and 24 hours ahead |
